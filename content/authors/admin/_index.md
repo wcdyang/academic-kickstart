@@ -3,7 +3,7 @@
 name: Wei-Chang David Yang
 
 # Username (this should match the folder name)
-authors: weichang252
+authors:
 - admin
 
 # Is this the primary user of the site?
