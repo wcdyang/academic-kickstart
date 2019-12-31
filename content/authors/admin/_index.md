@@ -23,7 +23,7 @@ bio: My research interests include nanoscience, electron microscopy and light-ma
 interests:
 - Heterogeneous Catalysis
 - Nanoplasmonics
-- *in situ* Electron Microscopy
+- In Situ Electron Microscopy
 
 education:
   courses:
