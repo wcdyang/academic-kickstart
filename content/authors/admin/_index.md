@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Wei-Chang David Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Materials Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National Institute of Standards and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include nanoscience, electron microscopy and light-matter interactions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Heterogeneous Catalysis
+- Nanoplasmonics
+- *In Situ* Electron Microscopy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Materials Engineering
+    institution: Purdue University
+    year: 2015
+  - course: MS in Materials Science & Engineering
+    institution: National Tsing Hua University (Taiwan)
+    year: 2006
+  - course: BS in Materials Science & Engineering
+    institution: National Tsing Hua University (Taiwan)
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'weichang252@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/weichangdyang
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_4kRD9QAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/weichang252
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Materials Research Engineer at the National Institution of Standards and Technology (NIST). After receiving a B.S. and a M.S. in Materials Science and Engineering from the National Tsing Hua University, Taiwan, I attained a Ph.D. in Materials Engineering from Purdue University. My doctoral research focused on the development of kesterite thin-film solar cells using nanoparticle inks. My work, using aberration-corrected transmission electron microscopy (TEM), unfolded the structural and chemical fluctuations in multi-element chalcogenide nanoparticles and their influences during the crystal growth into a thin-film. I currently work at NIST to perform in situ measurements using a custom-built spectroscopy platform integrated with an environmental scanning transmission electron microscope (ESTEM). Following my interest of inventing new materials to unravel the energy challenges facing humanity, my research projects include energy-harvesting using plasmonic nanostructures to compensate for heat consumption in industry-relevant catalytic reactions to probing the nanoscale inhomogeneity in emerging polycrystalline energy materials using cathodoluminescence (CL). My recent work that identified the catalytically active sites on the surface of a plasmonic nanostructure using model-driven experiments shedding light on the design principles of new plasmonic catalysts for low-temperature chemical processes. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
