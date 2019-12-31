@@ -23,17 +23,17 @@ bio: My research interests include nanoscience, electron microscopy and light-ma
 interests:
 - Heterogeneous Catalysis
 - Nanoplasmonics
-- In Situ Electron Microscopy
+- _In Situ_ Electron Microscopy
 
 education:
   courses:
-  - course: PhD in Materials Engineering
+  - course: Ph.D. - Materials Engineering
     institution: Purdue University
     year: 2015
-  - course: MS in Materials Science & Engineering
+  - course: M.S. - Materials Science & Engineering
     institution: National Tsing Hua University (Taiwan)
     year: 2006
-  - course: BS in Materials Science & Engineering
+  - course: B.S. - Materials Science & Engineering
     institution: National Tsing Hua University (Taiwan)
     year: 2004
 
