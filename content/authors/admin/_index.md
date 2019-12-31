@@ -3,7 +3,7 @@
 name: Wei-Chang David Yang
 
 # Username (this should match the folder name)
-authors:
+authors: weichang252
 - admin
 
 # Is this the primary user of the site?
@@ -23,7 +23,7 @@ bio: My research interests include nanoscience, electron microscopy and light-ma
 interests:
 - Heterogeneous Catalysis
 - Nanoplasmonics
-- *In Situ* Electron Microscopy
+- *in situ* Electron Microscopy
 
 education:
   courses:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Materials Research Engineer at the National Institution of Standards and Technology (NIST). After receiving a B.S. and a M.S. in Materials Science and Engineering from the National Tsing Hua University, Taiwan, I attained a Ph.D. in Materials Engineering from Purdue University. My doctoral research focused on the development of kesterite thin-film solar cells using nanoparticle inks. My work, using aberration-corrected transmission electron microscopy (TEM), unfolded the structural and chemical fluctuations in multi-element chalcogenide nanoparticles and their influences during the crystal growth into a thin-film. I currently work at NIST to perform in situ measurements using a custom-built spectroscopy platform integrated with an environmental scanning transmission electron microscope (ESTEM). Following my interest of inventing new materials to unravel the energy challenges facing humanity, my research projects include energy-harvesting using plasmonic nanostructures to compensate for heat consumption in industry-relevant catalytic reactions to probing the nanoscale inhomogeneity in emerging polycrystalline energy materials using cathodoluminescence (CL). My recent work that identified the catalytically active sites on the surface of a plasmonic nanostructure using model-driven experiments shedding light on the design principles of new plasmonic catalysts for low-temperature chemical processes. 
+I'm a Materials Research Engineer at the National Institution of Standards and Technology (NIST). After receiving a B.S. and a M.S. in Materials Science and Engineering from the National Tsing Hua University, Taiwan, I attained a Ph.D. in Materials Engineering from Purdue University. My doctoral research focused on the development of kesterite thin-film solar cells using nanoparticle inks. My work, using aberration-corrected transmission electron microscopy (TEM), unfolded the structural and chemical fluctuations in multi-element chalcogenide nanoparticles and their influences during the crystal growth into a thin-film. I currently work at NIST to perform in situ measurements using a custom-built spectroscopy platform integrated with an environmental scanning transmission electron microscope (ESTEM). Following my interest of inventing new materials to unravel the energy challenges facing humanity, my research projects include energy-harvesting using plasmonic nanostructures to compensate for heat consumption in industry-relevant catalytic reactions to probing the nanoscale inhomogeneity in emerging polycrystalline energy materials using cathodoluminescence (CL). My recent work that identified the catalytically active sites on the surface of a plasmonic nanostructure using model-driven experiments shedding light on the design principles of new plasmonic catalysts for low-temperature chemical processes.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
