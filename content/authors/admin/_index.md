@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_4kRD9QAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Wei_Chang_Yang
 - icon: github
   icon_pack: fab
   link: https://github.com/weichang252
