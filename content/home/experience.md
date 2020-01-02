@@ -30,7 +30,10 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "PML-UMD Postdoc Fellow"
-  company = "* Institute for Research in Electronics and Applied Physics, University of Maryland College Park.* Physical Measurement Laboratory, NIST"
+  company = "
+  * Institute for Research in Electronics and Applied Physics, University of Maryland College Park.
+  * Physical Measurement Laboratory, NIST
+  "
   company_url = ""
   location = "Gaithersburg, Maryland"
   date_start = "2015-03-02"
