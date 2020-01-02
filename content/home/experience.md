@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Materials Research Engineering"
+  title = "Materials Research Engineer"
   company = "National Institute of Standards and Technology (NIST)"
   company_url = ""
   location = "Gaithersburg, Maryland"
@@ -36,12 +36,17 @@ date_format = "Jan 2006"
   date_start = "2015-03-02"
   date_end = "2019-12-31"
   description = """
-  Plasmon-induced chemical processes at gas-solid interfaces
+  **Plasmon-induced chemical processes at gas-solid interfaces**
   * Utilizing electron-beam-excited localized surface plasmon (LSP) resonance to drive chemical reactions at the gas-solid interface.
   * Characterizing LSP resonance and gas adsorption on the catalyst surface using in-situ EELS in an environmental TEM.
   * Synthesizing facet-controlled nanostructures to accommodate selective LSP modes and gas adsorption on metal surface.
   * Simulating LSP resonance energies and electric field using boundary element method (BEM) calculations in MATLAB.
   * Analyzing hyperspectral datasets using unsupervised machine learning algorithms to achieve unbiased data analysis.
+  **In-situ study of carbon nanotube growth and optical spectroscopy in a TEM**
+  * Investigating carbon nanotube (CNT) growth using metal catalysts, such as Co, Ni and Na, in an environmental TEM.
+  * Conducting in-situ Raman spectroscopy and maintaining rigorous safe laboratory practices during carbon nanotube growth.
+  * Identifying defect-mediated charge-carrier recombination at grain boundaries in CdTe using cathodoluminescence (CL).
+  * Characterizing the electronic structure of transition metal chalcogenide 2D materials using STEM-CL and valence EELS.
   """
 
 +++
