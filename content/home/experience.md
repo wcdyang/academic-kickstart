@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   * Characterizing LSP resonance and gas adsorption on the catalyst surface using in-situ EELS in an environmental TEM.
   * Synthesizing facet-controlled nanostructures to accommodate selective LSP modes and gas adsorption on metal surface.
   * Simulating LSP resonance energies and electric field using boundary element method (BEM) calculations in MATLAB.
-  * Analyzing hyperspectral datasets using unsupervised machine learning algorithms to achieve unbiased data analysis.
+  * Analyzing hyperspectral datasets using unsupervised machine learning algorithms to achieve unbiased data analysis.\n
   **In-situ study of carbon nanotube growth and optical spectroscopy in a TEM**
   * Investigating carbon nanotube (CNT) growth using metal catalysts, such as Co, Ni and Na, in an environmental TEM.
   * Conducting in-situ Raman spectroscopy and maintaining rigorous safe laboratory practices during carbon nanotube growth.
