@@ -1,5 +1,5 @@
 ---
-title: "9.0% efficient Cu $_textrm2$ ZnSn(S,Se) $_textrm4$ solar cells from selenized nanoparticle inks: 9.2% efficient Cu $_textrm2$ ZnSn(S,Se) $_textrm4$ solar cells"
+title: "9.0% efficient Cu2ZnSn(S,Se)4 solar cells from selenized nanoparticle inks"
 date: 2015-05-01
 publishDate: 2020-01-02T23:26:00.325498Z
 authors: ["Caleb K. Miskin", "Wei-Chang Yang", "Charles J. Hages", "Nathaniel J. Carter", "Chinmay S. Joglekar", "Eric A. Stach", "Rakesh Agrawal"]
@@ -10,4 +10,3 @@ publication: "*Progress in Photovoltaics: Research and Applications*"
 url_pdf: "http://doi.wiley.com/10.1002/pip.2472"
 doi: "10.1002/pip.2472"
 ---
-

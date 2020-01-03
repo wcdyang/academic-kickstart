@@ -1,5 +1,5 @@
 ---
-title: "Synthesis of (CuInS $_textrm2$ ) $_textrm0.5$ (ZnS) $_textrm0.5$ Alloy Nanocrystals and Their Use for the Fabrication of Solar Cells via Selenization"
+title: "Synthesis of (CuInS2)0.5(ZnS)0.5 Alloy Nanocrystals and Their Use for the Fabrication of Solar Cells via Selenization"
 date: 2014-07-01
 publishDate: 2020-01-02T23:26:00.201495Z
 authors: ["Brian K. Graeser", "Charles J. Hages", "Wei Chang Yang", "Nathaniel J. Carter", "Caleb K. Miskin", "Eric A. Stach", "Rakesh Agrawal"]
@@ -10,4 +10,3 @@ publication: "*Chemistry of Materials*"
 url_pdf: "https://pubs.acs.org/doi/10.1021/cm501017z"
 doi: "10.1021/cm501017z"
 ---
-

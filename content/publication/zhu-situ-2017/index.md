@@ -1,5 +1,5 @@
 ---
-title: "textitIn Situ Atomic-Scale Probing of the Reduction Dynamics of Two-Dimensional Fe $_textrm2$ O $_textrm3$ Nanostructures"
+title: "In Situ Atomic-Scale Probing of the Reduction Dynamics of Two-Dimensional Fe2O3 Nanostructures"
 date: 2017-01-01
 publishDate: 2020-01-02T23:26:00.275498Z
 authors: ["Wenhui Zhu", "Jonathan P. Winterstein", "Wei-Chang David Yang", "Lu Yuan", "Renu Sharma", "Guangwen Zhou"]
@@ -10,4 +10,3 @@ publication: "*ACS Nano*"
 url_pdf: "https://pubs.acs.org/doi/10.1021/acsnano.6b06950"
 doi: "10.1021/acsnano.6b06950"
 ---
-

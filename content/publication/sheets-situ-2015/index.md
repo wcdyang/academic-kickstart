@@ -1,5 +1,5 @@
 ---
-title: "An in situ phosphorus source for the synthesis of Cu $_textrm3$ P and the subsequent conversion to Cu $_textrm3$ PS $_textrm4$ nanoparticle clusters"
+title: "An in situ phosphorus source for the synthesis of Cu3P and the subsequent conversion to Cu3PS4 nanoparticle clusters"
 date: 2015-12-01
 publishDate: 2020-01-02T23:26:00.287498Z
 authors: ["Erik J. Sheets", "Wei-Chang Yang", "Robert B. Balow", "Yunjie Wang", "Bryce C. Walker", "Eric A. Stach", "Rakesh Agrawal"]
@@ -10,4 +10,3 @@ publication: "*Journal of Materials Research*"
 url_pdf: "https://www.cambridge.org/core/product/identifier/S0884291415003337/type/journal_article"
 doi: "10.1557/jmr.2015.333"
 ---
-
