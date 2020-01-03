@@ -1,5 +1,5 @@
 ---
-title: "Compositional Inhomogeneity of Multinary Semiconductor Nanoparticles: A Case Study of Cu,,2,,ZnSnS,,4,,"
+title: "Compositional Inhomogeneity of Multinary Semiconductor Nanoparticles: A Case Study of Cu~2~ZnSnS~4~"
 date: 2014-12-01
 publishDate: 2020-01-02T23:26:00.251494Z
 authors: ["Wei-Chang Yang", "Caleb K. Miskin", "Nathaniel J. Carter", "Rakesh Agrawal", "Eric A. Stach"]
