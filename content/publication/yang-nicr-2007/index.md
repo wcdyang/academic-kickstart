@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Applied Physics Letters*"
-tag: ["Thermodynamic states and processes", "Catalyst", "Field effect transistors", "Transmission electron microscopy", "Alloys", "Raman spectroscopy", "Nanotubes", "Scanning electron microscopy", "Chemical vapor deposition", "Electrical properties and parameters"]
+tags: ["Thermodynamic states and processes", "Catalyst", "Field effect transistors", "Transmission electron microscopy", "Alloys", "Raman spectroscopy", "Nanotubes", "Scanning electron microscopy", "Chemical vapor deposition", "Electrical properties and parameters"]
 url_pdf: "http://aip.scitation.org/doi/10.1063/1.2743946"
 doi: "10.1063/1.2743946"
 ---

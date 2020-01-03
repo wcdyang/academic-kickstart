@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Applied Physics Letters*"
-tag: ["Semiconductor structures", "Spin coating", "Organic materials", "Electrical properties and parameters", "Amorphous materials", "Chemical compounds", "Semiconductor materials", "Dielectric materials", "Thin film transistors", "Polymers"]
+tags: ["Semiconductor structures", "Spin coating", "Organic materials", "Electrical properties and parameters", "Amorphous materials", "Chemical compounds", "Semiconductor materials", "Dielectric materials", "Thin film transistors", "Polymers"]
 url_pdf: "http://aip.scitation.org/doi/10.1063/1.2753696"
 doi: "10.1063/1.2753696"
 ---
