@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Chemistry of Materials*"
+tag: ["Absorption", "Layers", "Physical and chemical processes", "Solar cells", "Nanocrystals"]
 url_pdf: "https://pubs.acs.org/doi/10.1021/cm501017z"
 doi: "10.1021/cm501017z"
 ---
