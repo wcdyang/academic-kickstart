@@ -26,6 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Develop and disseminate new measurement methods and application areas, utilizing an environmental transmission electron microscope (ETEM) and other optical analytical methods for advanced nanoscale devices, catalysts, and electronic materials.
+  **Two-dimensional layered van der Waals heterostructures**
+  *	Probe momentum forbidden excitons in encapsulated monolayer TMDC using correlative EELS and Cathodoluminescence (CL).
+  **Dynamic process during catalytic reactions**
+  *	Develop catalyst decoking (Ni/SiO2) driven by deep ultraviolet surface plasmons of Al nanostructures.
+  *	Measure structural fluctuations and phase transformations mediated by surface strains in catalysts under reaction conditions.
+
   """
 
 [[experience]]
@@ -34,7 +40,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Gaithersburg, Maryland"
   date_start = "2015-03-02"
-  date_end = "2019-12-31"
+  date_end = "2020-01-05"
   description = """
   **Plasmon-induced chemical processes at gas-solid interfaces**
   * Utilizing electron-beam-excited localized surface plasmon (LSP) resonance to drive chemical reactions at the gas-solid interface.
