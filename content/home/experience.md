@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-01-06"
   date_end = ""
   description = """
-  Develop and disseminate new measurement methods and application areas, utilizing an environmental transmission electron microscope (ETEM) and other optical analytical methods for advanced nanoscale devices, catalysts, and electronic materials.
+  Develop and disseminate new measurement methods and application areas, utilizing an environmental transmission electron microscope (ETEM) and other optical analytical methods for advanced nanoscale devices, catalysts, and electronic materials.\n
   **Two-dimensional layered van der Waals heterostructures**
-  *	Probe momentum forbidden excitons in encapsulated monolayer TMDC using correlative EELS and Cathodoluminescence (CL).
+  *	Probe momentum forbidden excitons in encapsulated monolayer TMDC using correlative EELS and Cathodoluminescence (CL).\n
   **Dynamic process during catalytic reactions**
   *	Develop catalyst decoking (Ni/SiO2) driven by deep ultraviolet surface plasmons of Al nanostructures.
   *	Measure structural fluctuations and phase transformations mediated by surface strains in catalysts under reaction conditions.
